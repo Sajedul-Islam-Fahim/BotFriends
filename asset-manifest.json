@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/.github.io/BotFriends/static/css/main.b90ffde9.chunk.css",
+    "main.js": "/.github.io/BotFriends/static/js/main.3332f962.chunk.js",
+    "main.js.map": "/.github.io/BotFriends/static/js/main.3332f962.chunk.js.map",
+    "runtime-main.js": "/.github.io/BotFriends/static/js/runtime-main.827d6656.js",
+    "runtime-main.js.map": "/.github.io/BotFriends/static/js/runtime-main.827d6656.js.map",
+    "static/css/2.fe359a49.chunk.css": "/.github.io/BotFriends/static/css/2.fe359a49.chunk.css",
+    "static/js/2.79fac1c9.chunk.js": "/.github.io/BotFriends/static/js/2.79fac1c9.chunk.js",
+    "static/js/2.79fac1c9.chunk.js.map": "/.github.io/BotFriends/static/js/2.79fac1c9.chunk.js.map",
+    "static/js/3.22e58711.chunk.js": "/.github.io/BotFriends/static/js/3.22e58711.chunk.js",
+    "static/js/3.22e58711.chunk.js.map": "/.github.io/BotFriends/static/js/3.22e58711.chunk.js.map",
+    "index.html": "/.github.io/BotFriends/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/.github.io/BotFriends/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.b90ffde9.chunk.css.map": "/.github.io/BotFriends/static/css/main.b90ffde9.chunk.css.map",
+    "static/js/2.79fac1c9.chunk.js.LICENSE.txt": "/.github.io/BotFriends/static/js/2.79fac1c9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/.github.io/BotFriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.827d6656.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.79fac1c9.chunk.js",
+    "static/css/main.b90ffde9.chunk.css",
+    "static/js/main.3332f962.chunk.js"
+  ]
+}
